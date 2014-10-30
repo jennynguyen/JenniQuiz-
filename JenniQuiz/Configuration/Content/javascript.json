@@ -1,0 +1,116 @@
+ [
+  {
+  "questionId" : "0",
+  "answers" : [
+               {
+               "correct" : false,
+               "text" : "I don't know"
+               },
+               {
+               "correct" : false,
+               "text" : "They're cousins :) "
+               },
+               {
+               "correct" : true,
+               "text" : "ECMAScript is yet another name for JavaScript (other names include LiveScript). The current JavaScript that you see supported in browsers is ECMAScript revision 3."
+               }
+               ],
+  "image" : "rails.jpg",
+  "text" : "What’s relationship between JavaScript and ECMAScript?"
+  },
+  {
+  "questionId" : "1",
+  "answers" : [
+               {
+               "correct" : false,
+               "text" : "There's no data in Javascript"
+               },
+               {
+               "correct" : true,
+               "text" : "Number, String, Boolean, Function, Object, Null, Undefined"
+               },
+               {
+               "correct" : false,
+               "text" : "Array and Hashes"
+               }
+               ],
+  "text" : "What are JavaScript Data Types?"
+  },
+  {
+  "questionId" : "2",
+  "answers" : [
+               {
+               "correct" : false,
+               "text" : "They're the same"
+               },
+               {
+               "correct" : false,
+               "text" : "What does PJ say?"
+               },
+               {
+               "correct" : true,
+               "text" : "While “==” checks only for equality, “===” checks for equality as well as the type."
+               }
+               ],
+  "text" : "What is the difference between “==” and “===”?"
+  },
+  {
+  "questionId" : "3",
+  "answers" : [
+               {
+               "correct" : false,
+               "text" : "It is a platform-independent,event-driven, interpreted client-side scripting language developed by Netscape Communications Corp. and Sun Microsystems."
+               },
+               {
+               "correct" : false,
+               "text" : "It is a general-purpose programming language designed to let programmers of all skill levels control the behavior of software objects."
+               },
+               {
+               "correct" : false,
+               "text" : "The language is used most widely today in Web browsers whose software objects tend to represent a variety of HTML elements in a document and the document itself."
+               },
+               {
+               "correct" : true,
+               "text" : "All of the above."
+               }
+               ],
+  "text" : "What is JavaScript?"
+  },
+  {
+  "questionId" : "4",
+  "answers" : [
+               {
+               "correct" : true,
+               "text" : "124"
+               },
+               {
+               "correct" : false,
+               "text" : "NaN"
+               },
+               {
+               "correct" : false,
+               "text" : "16"
+               },
+               {
+               "correct" : false,
+               "text" : "Errorrrrrrrrrrrrrrrrr"
+               }
+               ],
+  "text" : "What does \"1\"+2+4 evaluate to?"
+  },
+  {
+  "questionId" : "5",
+  "answers" : [
+               {
+               "correct" : false,
+               "text" : "No"
+               },
+               {
+               "correct" : true,
+               "text" : "Yes"
+               }
+               ],
+  "text" : "Is jQuery a Javascript library?"
+  }
+  ]
+

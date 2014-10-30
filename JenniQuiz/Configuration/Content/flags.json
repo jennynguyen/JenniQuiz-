@@ -1,0 +1,72 @@
+[
+  {
+    "questionId" : "1",
+    "answers" : [
+      {
+        "correct" : false,
+        "text" : "France"
+      },
+      {
+        "correct" : false,
+        "text" : "Germany"
+      },
+      {
+        "correct" : true,
+        "text" : "United States"
+      },
+      {
+        "correct" : false,
+        "text" : "Korea"
+      }
+    ],
+    "image" : "unitedstates.jpg",
+    "text" : "Which country's flag is this?"
+  },
+  {
+    "questionId" : "2",
+    "answers" : [
+      {
+        "image" : "france.jpg",
+        "correct" : true
+      },
+      {
+        "image" : "germany.jpg",
+        "correct" : false
+      },
+      {
+        "image" : "holland.jpg",
+        "text" : "",
+        "correct" : false
+      },
+      {
+        "image" : "canada.jpg",
+        "text" : "",
+        "correct" : false
+      }
+    ],
+    "text" : "Identify the flag of France"
+  },
+  {
+    "questionId" : "2",
+    "answers" : [
+      {
+        "correct" : false,
+        "text" : "Russia"
+      },
+      {
+        "correct" : true,
+        "text" : "Spain"
+      },
+      {
+        "correct" : false,
+        "text" : "Iran"
+      },
+      {
+        "correct" : false,
+        "text" : "South Africa"
+      }
+    ],
+    "image" : "spain.jpg",
+    "text" : "Which country's flag is this?"
+  }
+]

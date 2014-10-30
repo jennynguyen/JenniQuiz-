@@ -1,0 +1,131 @@
+ [
+  {
+  "questionId" : "0",
+  "answers" : [
+               {
+               "correct" : false,
+               "text" : "Ruby on Rails, is an open source web application framework written in Ruby"
+               },
+               {
+               "correct" : false,
+               "text" : "Rails is a full-stack framework that emphasizes the use of well-known software engineering patterns and paradigms"
+               },
+               {
+               "correct" : false,
+               "text" : " It includes convention over configuration (CoC), don't repeat yourself (DRY), the active record pattern, and model–view–controller (MVC)"
+               },
+               {
+               "correct" : true,
+               "text" : "All of the above."
+               }
+               ],
+  "image" : "rails.jpg",
+  "text" : "What is Ruby on Rails?"
+  },
+  {
+  "questionId" : "1",
+  "answers" : [
+               {
+               "correct" : true,
+               "text" : "rails new app_name"
+               },
+               {
+               "correct" : false,
+               "text" : "I don't know"
+               },
+               {
+               "correct" : true,
+               "text" : "make me a rails app pls!"
+               },
+               {
+               "correct" : false,
+               "text" : "magic"
+               }
+               ],
+  "text" : "How do you make a new Rails app?"
+  },
+  {
+  "questionId" : "2",
+  "answers" : [
+               {
+               "correct" : false,
+               "text" : "Sessions are important as they provide with useful information regarding the customer and different server side information"
+               },
+               {
+               "correct" : false,
+               "text" : "Cookies on the other hand use the store information that are stored on the client side platform or related to the browser"
+               },
+               {
+               "correct" : false,
+               "text" : "Sessions are required to store the information regarding the user’s information and the actions that he will take only."
+               },
+               {
+               "correct" : false,
+               "text" : "The session remains till the browser till the information is getting stored and the browser is getting closed by the user for the same"
+               },
+               {
+               "correct" : true,
+               "text" : "All of the above."
+               }
+               ],
+  "text" : "What does Session and Cookies represent in Ruby on Rails?"
+  },
+  {
+  "questionId" : "3",
+  "answers" : [
+               {
+               "correct" : false,
+               "text" : "It allows the classes to be mapped to the table that is present in the database and objects get mapped to the rows in database table"
+               },
+               {
+               "correct" : false,
+               "text" : "It shows the relationship that exists between the object and frame it using the model to display the output to the users"
+               },
+               {
+               "correct" : false,
+               "text" : "ORM stands for Object Relationship Model that models the classes and helps in setting a relationship between the existing models."
+               },
+               {
+               "correct" : true,
+               "text" : "All of the above."
+               }
+               ],
+  "text" : "What is ORM?"
+  },
+  {
+  "questionId" : "4",
+  "answers" : [
+               {
+               "correct" : true,
+               "text" : "Model, View, Controller"
+               },
+               {
+               "correct" : false,
+               "text" : "Marvel Vs Capcom"
+               },
+               {
+               "correct" : false,
+               "text" : "IDK"
+               },
+               {
+               "correct" : false,
+               "text" : "IDC"
+               }
+               ],
+  "text" : "What is MVC in Rails?"
+  },
+  {
+  "questionId" : "5",
+  "answers" : [
+               {
+               "correct" : false,
+               "text" : "No"
+               },
+               {
+               "correct" : true,
+               "text" : "Yes"
+               }
+               ],
+  "text" : "Is Rails cooler than Sinatra?"
+  }
+  ]

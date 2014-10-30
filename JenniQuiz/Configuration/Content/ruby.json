@@ -1,0 +1,111 @@
+ [
+  {
+  "questionId" : "0",
+  "answers" : [
+               {
+               "correct" : false,
+               "text" : "a precious stone consisting of corundum in color varieties varying from deep crimson or purple to pale rose"
+               },
+               {
+               "correct" : false,
+               "text" : "My girlfriend"
+               },
+               {
+               "correct" : true,
+               "text" : "Ruby is a dynamic, reflective, object-oriented, general-purpose programming language"
+               }
+               ],
+  "image" : "ruby.jpg",
+  "text" : "What is Ruby programming language?"
+  },
+  {
+  "questionId" : "1",
+  "answers" : [
+               {
+               "correct" : false,
+               "text" : "What the hell is class?"
+               },
+               {
+               "correct" : false,
+               "text" : "I don't know"
+               },
+               {
+               "correct" : true,
+               "text" : "Class is just a specific type of module. It defines an object's type & its interface"
+               }
+               ],
+  "text" : "What is a class?"
+  },
+  {
+  "questionId" : "2",
+  "answers" : [
+               {
+               "correct" : true,
+               "text" : "Module is a collection of methods and constants. Module is a namespace"
+               },
+               {
+               "correct" : false,
+               "text" : "I have never heard of module before"
+               },
+               {
+               "correct" : false,
+               "text" : "%^*(((&^%#&#*%(^)"
+               },
+               {
+               "correct" : false,
+               "text" : "I have no clue what it is."
+               }
+               ],
+  "text" : "What is a module?"
+  },
+  {
+  "questionId" : "3",
+  "answers" : [
+               {
+               "correct" : false,
+               "text" : "No"
+               },
+               {
+               "correct" : true,
+               "text" : "Yes"
+               }
+               ],
+  "text" : "Is Ruby an Object Oriented Language?"
+  },
+  {
+  "questionId" : "4",
+  "answers" : [
+               {
+               "correct" : false,
+               "text" : "Objects are instances of the class."
+               },
+               {
+               "correct" : false,
+               "text" : "It is a data type with a stage that holds informations/attributes and all the methods (behaviors) that work on it."
+               },
+               {
+               "correct" : false,
+               "text" : "Object is the default root of all Ruby objects. Object inherits from BasicObject which allows creating alternate object hierarchies."
+               },
+               {
+               "correct" : true,
+               "text" : "All of the above."
+               }
+               ],
+  "text" : "What is an object?"
+  },
+  {
+  "questionId" : "5",
+  "answers" : [
+               {
+               "correct" : false,
+               "text" : "No"
+               },
+               {
+               "correct" : true,
+               "text" : "Yes"
+               }
+               ],
+  "text" : "Is Ruby an important language to learn?"
+  }
+  ]

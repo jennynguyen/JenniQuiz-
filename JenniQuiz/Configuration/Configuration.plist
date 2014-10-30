@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Interface Settings</key>
+	<dict>
+		<key>Main Background</key>
+		<string>greenBg</string>
+		<key>Main Font</key>
+		<string>EuphemiaUCAS</string>
+		<key>Bold Font</key>
+		<string>EuphemiaUCAS-Bold</string>
+	</dict>
+	<key>Questions Data</key>
+	<array>
+		<dict>
+			<key>Topic Title</key>
+			<string>JS</string>
+			<key>Topic Image</key>
+			<string>js.jpg</string>
+			<key>Questions File</key>
+			<string>javascript.json</string>
+		</dict>
+		<dict>
+			<key>Topic Title</key>
+			<string>Rails</string>
+			<key>Topic Image</key>
+			<string>rails.jpg</string>
+			<key>Questions File</key>
+			<string>rails.json</string>
+		</dict>
+		<dict>
+			<key>Topic Title</key>
+			<string>Ruby</string>
+			<key>Topic Image</key>
+			<string>ruby.jpg</string>
+			<key>Questions File</key>
+			<string>ruby.json</string>
+		</dict>
+		<dict>
+			<key>Topic Title</key>
+			<string>Flags</string>
+			<key>Topic Image</key>
+			<string>spain.jpg</string>
+			<key>Questions File</key>
+			<string>flags.json</string>
+		</dict>
+		<dict>
+			<key>Topic Title</key>
+			<string>Golf</string>
+			<key>Topic Image</key>
+			<string>golfBall.jpeg</string>
+			<key>Questions File</key>
+			<string>golf.json</string>
+		</dict>
+	</array>
+	<key>Quiz Settings</key>
+	<dict>
+		<key>Number Of Questions To Answer</key>
+		<integer>4</integer>
+		<key>Pass Threshold</key>
+		<integer>2</integer>
+		<key>Number of Questions To Practice</key>
+		<string>5</string>
+		<key>Is Timed Quiz</key>
+		<true/>
+		<key>Time Needed In Minutes</key>
+		<string>1.50</string>
+	</dict>
+</dict>
+</plist>
